@@ -9,3 +9,4 @@ class Car:
 c = Car("W" , "X5")
 c.set_price(10000)
 print("github")
+print("from github")
